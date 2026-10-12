@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets: never commit
+*.env
+.env*
+*credentials*
+*.key
+*.pem
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
